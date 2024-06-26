@@ -1,10 +1,10 @@
 from views.Home import HomeView
 from views.alerts.OptionNotExist import OptionNotExist
 from views.alerts.CloseMessage import CloseMessage
-from views.addition.AdditionView import AdditionView
-from views.subtraction.SubtractionView import SubtractionView
-from views.multiplication.MultiplicationView import MultiplicationView
-from views.division.DivisionView import DivisionView
+from views.operation.addition.AdditionView import AdditionView
+from views.operation.subtraction.SubtractionView import SubtractionView
+from views.operation.multiplication.MultiplicationView import MultiplicationView
+from views.operation.division.DivisionView import DivisionView
 
 
 # Application
